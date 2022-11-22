@@ -5,7 +5,7 @@ import Form from "../Form";
 import Illustration from "../Illustration";
 import TextInput from "../TextInput";
 
-export default function Signup() {
+export default function SignUp() {
   return (
     <>
       <h1>Create an account</h1>
